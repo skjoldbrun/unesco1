@@ -1,0 +1,36 @@
+/* 
+Theme Name:   Childtheme
+Template:    inspiro
+Version:      1.0.0
+Description:  inspiro Child Theme
+Author:      Louise Bruun
+*/
+
+p {
+  font-family: zeitung, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  font-family: zeitung, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2 {
+  font-family: zeitung, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h3 {
+  font-family: zeitung, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.valgt {
+  background-color: aqua;
+  color: white;
+}
